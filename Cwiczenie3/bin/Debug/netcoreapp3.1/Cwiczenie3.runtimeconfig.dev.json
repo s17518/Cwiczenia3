@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MastixPower\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MastixPower\\.nuget\\packages"
+    ]
+  }
+}
